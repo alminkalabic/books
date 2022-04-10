@@ -3,6 +3,7 @@
 ## description
 ```
 Simple Vuejs administration for managing books and users using fake API (https://fakerestapi.azurewebsites.net/api/v1/)
+Dependencies: axios, router vuetify, vuex
 ```
 ## Project setup
 ```
